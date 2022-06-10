@@ -20,14 +20,14 @@ source-code: https://github.com/MorProject/collection
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Norval Morrisseau 
+title: "The Morrisseau Project: 1955-1985"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Mother Earth at Expo 67
+tagline: Explore the Life and Work of Norval Morrisseau
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The story of Norval Morrisseau's Mother Earth as it transforms from maquette to mural."
+description: "Why are Morrisseau's pieces so colourful? Who are the figures depicted in his art? How did he combine marketing savviness and the practice of gifting to further his career? Come learn from Morrisseau's own words and research by top scholars and community members through these vignettes."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Mo Project
+author: The Morrisseau Project
 
 ##########
 # COLLECTION SETTINGS
